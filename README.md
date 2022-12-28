@@ -1,5 +1,5 @@
 E-Commerce API is a server-side application, provide management of users, products and orders of an online store, developed with 
-Javascript, Node.js, Express.js and MongoDB. Extra packages like docGen and JTW were used. (most of the HTML it comes from the docgen library)
+Javascript, Node.js, Express.js and MongoDB. Extra packages like docGen and JTW were used.
 
 URL : https://e-commerce-api-cva2.onrender.com/
 
