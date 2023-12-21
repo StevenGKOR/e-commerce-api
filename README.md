@@ -22,6 +22,3 @@ Node.js-based API for managing online stores, handling user interactions, produc
 
 ## Usage
 Manage users, products, orders, reviews via API endpoints.
-
-## Contributing
-See project's contribution guidelines.
